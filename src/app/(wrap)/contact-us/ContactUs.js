@@ -105,7 +105,7 @@ function ContactUs() {
                   }}
                 >
                   <FcQuestions className={styles.iconSize} />
-                  <h3 className={styles.text}>Send us inquiry</h3>
+                  <h3 className={styles.text}>Send us inquiry nitesh yadav</h3>
                   <p
                     style={{
                       lineHeight: "15px",
